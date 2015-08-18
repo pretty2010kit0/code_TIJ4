@@ -1,0 +1,6 @@
+无法解析导入org.eclipse.swt
+
+右键点击项目 -> Build Path -> Config Build Path...
+然后选择Libraries标签页，点击Add External JARs...
+再到你的eclipse安装目录下的plugins目录下寻找 
+org.eclipse.swt.win32.win32.x86_XXXXX.jar（XXXXX是版本号）。
